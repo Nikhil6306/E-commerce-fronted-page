@@ -1,6 +1,8 @@
 # E-commerce-fronted-page
 his repository contains a frontend e-commerce project for buying multiple items by adding them to a cart and checking out the final total for paying the bill. The project is implemented using HTML, CSS, and JavaScript. It is designed to provide a user-friendly interface for browsing products, adding them to the cart, the purchase process.
-Features
+<br/>
+**Features**
+
 Browse and view available products
 Add products to the cart
 View and update the cart
@@ -18,7 +20,7 @@ Order history and tracking
 Product reviews and ratings
 Responsive design for mobile devices
 Setup Instructions
-Clone the repository to your local machine using git clone https://github.com/gaurav-bhadane/E-Commerce.git .
+Clone the repository to your local machine using git clone
 Open the project directory in your preferred code editor.
 Open index.html in a web browser to view the project locally.
 Explore the features and functionalities of the e-commerce website.
